@@ -1,5 +1,6 @@
-# Welcome to Docsify Page!
+# Business plan
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+This is the business plan for a next generation decnetralized internet company.
+We build infrastructure tools and products on the bitcoin lightning network.
 
-![Welcome to Opensource.com](./images/cover.jpg)
+Our first product will revolutionize the pet insurance industry by providing a low cost alternatitve to the traditional insurance industry.
