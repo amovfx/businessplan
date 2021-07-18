@@ -2,4 +2,4 @@
 
 * [ Structure ]
 * [ Legal ]
-* [Equity distribution]
+* [ Equity distribution ]
